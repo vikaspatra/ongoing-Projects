@@ -1,0 +1,1 @@
+This repo is just for backing up incomplete ongoing projects. Some of them might not be working and abandoned. So if you are looking for a program which is up to the mark then this is not the right place
